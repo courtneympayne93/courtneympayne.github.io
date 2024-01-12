@@ -11,37 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Earth System Science, Stanford University, 2023
+* B.A. in Earth and Oceanographic Science (Honors) and Spanish, Bowdoin College, 2015
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023-Present: University of Colorado Boulder and National Center for Atmospheric Research
+  * Advanced Studies Program Postdoctoral Fellow
+  * Polar biological oceanography
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2017-2023: Stanford University
+  * Graduate Student Researcher
+  * Polar biological oceanography
+  * Advisor: Dr. Kevin Arrigo
+ 
+* 2012-2015: Bowdoin College
+  * Undergraduate Student Researcher
+  * Biological oceanography
+  * Advisor: Dr. Collin Roesler
 
-Publications
+* Summer 2014: NSF Svalbard REU Program
+  * Undergraduate Student Researcher
+  * Polar biological oceanography
+  * Advisor: Dr. Collin Roesler
+
+    
+Grants, Fellowships, and Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* NCAR Advanced Studies Program Fellowship
+* Achievement Reward for College Scientists (ARCS) Fellowship
+* NSF Doctoral Dissertation Research Grant: "Determining the functional relationship between co-limiting light and nutrient conditions on phytoplankton growth"
+* Stanford University Enhancing Diversity in Graduate Education Fellowship
+
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -57,3 +58,10 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+* Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
