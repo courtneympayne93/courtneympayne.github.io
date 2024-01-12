@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 
-About me
-======
 Hello! I am a postdoctoral scholar at the [University of Colorado Boulder](https://www.colorado.edu/instaar/courtney-payne) and the National Center for Atmospheric Research (NCAR) in Boulder, Colorado. I recently completed my Ph.D. in Earth System Science at Stanford University with Kevin Arrigo in the [Ocean Biogeochemistry Lab](http://ocean.stanford.edu/).
 
 My research focuses on primary production in the Arctic Ocean. I use models (ranging from one-dimensional models to Earth system models in scale), satellite remote sensing, and field and laboratory experiments and observations to study the timing, magnitude, and impacts of phytoplankton blooms on Arctic ecosystems. I am specifically interested in under-ice phytoplankton blooms, carbon export and trophic transfer, and short-term (month-2 year) prediciton of Arctic primary production.
