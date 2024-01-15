@@ -17,4 +17,4 @@ The Arctic Ocean is disproportionately experiencing the effects of climate chang
 
 I am also passionate about increasing access to STEM and higher education through long-range mentorship. Head to the Outreach & Mentoring page to learn more!
 
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Courtney Payne in the Chukchi Sea, Arctic Ocean](/images/DSC07193.JPG)
